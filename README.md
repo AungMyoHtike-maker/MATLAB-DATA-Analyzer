@@ -50,23 +50,23 @@ MATLAB Data Analyzer is a graphical user interface (GUI) application developed u
 
 
 
-&#x09;4.	Plot data trends
+- Plot data trends
 
 
 
-&#x09;5.	Generate histograms for selected numeric variables
+- Generate histograms for selected numeric variables
 
 
 
-&#x09;6.	Export summary reports to CSV
+- Export summary reports to CSV
 
 
 
-&#x09;7.	Export plots as PNG images
+- Export plots as PNG images
 
 
 
-&#x09;8.	Display error messages for unsupported or unreadable data files
+- Display error messages for unsupported or unreadable data files
 
 
 
@@ -122,23 +122,23 @@ MATLAB Data Analyzer is a graphical user interface (GUI) application developed u
 
 
 
->>	*DataAnalyzer\_Guide.fig* — GUI layout
+-	*DataAnalyzer\_Guide.fig* — GUI layout
 
 
 
->>	*DataAnalyzer\_Guide.m* — Application source code
+-	*DataAnalyzer\_Guide.m* — Application source code
 
 
 
->>	*sample\_data.csv* — Sample input dataset
+-	*sample\_data.csv* — Sample input dataset
 
 
 
->>	*summary\_report.csv* — Example exported report
+-	*summary\_report.csv* — Example exported report
 
 
 
->>	*data\_plot.png* — Example exported visualization
+-	*data\_plot.png* — Example exported visualization
 
 
 
