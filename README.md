@@ -106,7 +106,7 @@ MATLAB Data Analyzer is a graphical user interface (GUI) application developed u
 
 
 
-3\.	Open *DataAnalyzer\_GUIDE.fig* in GUIDE or open *DataAnalyzer\_GUIDE.m* in the MATLAB Editor.
+3\.	Open *DataAnalyzer\_Guide.fig* in GUIDE or open *DataAnalyzer\_Guide.m* in the MATLAB Editor.
 
 
 
@@ -122,11 +122,11 @@ MATLAB Data Analyzer is a graphical user interface (GUI) application developed u
 
 
 
->>	*DataAnalyzer\_GUIDE.fig* — GUI layout
+>>	*DataAnalyzer\_Guide.fig* — GUI layout
 
 
 
->>	*DataAnalyzer\_GUIDE.m* — Application source code
+>>	*DataAnalyzer\_Guide.m* — Application source code
 
 
 
