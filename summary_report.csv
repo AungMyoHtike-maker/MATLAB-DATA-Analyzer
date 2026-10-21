@@ -1,0 +1,4 @@
+Variable,Count,Missing,Mean,Minimum,Maximum,StdDev
+Time,10,0,5.5,1,10,3.02765035409749
+Temperature,10,0,27.88,25.2,31,1.91415777824086
+Pressure,10,0,99.73,87.4,101.6,4.35840184777249
