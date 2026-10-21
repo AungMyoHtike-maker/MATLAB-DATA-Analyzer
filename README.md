@@ -8,6 +8,10 @@
 
 MATLAB Data Analyzer is a graphical user interface (GUI) application developed using MATLAB GUIDE. It allows users to load CSV files, inspect datasets, calculate descriptive statistics, visualize numerical data, and export analysis results.
 
+## Application Screenshot
+
+![MATLAB Data Analyzer](matlab-data-analyzer.png)
+
 
 
 **Features**
