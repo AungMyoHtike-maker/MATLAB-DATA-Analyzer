@@ -14,39 +14,39 @@ MATLAB Data Analyzer is a graphical user interface (GUI) application developed u
 
 
 
->>	Load data from CSV files
+-	Load data from CSV files
 
 
 
->>	Preview original data in a table
+-	Preview original data in a table
 
 
 
->>	Calculate summary statistics:
+-	Calculate summary statistics:
 
 
 
-&#x09;=>	Count
+&#x09;-	Count
 
 
 
-&#x09;=>	Missing values
+&#x09;-	Missing values
 
 
 
-&#x09;=>	Mean
+&#x09;-	Mean
 
 
 
-&#x09;=>	Minimum
+&#x09;-	Minimum
 
 
 
-&#x09;=>	Maximum
+&#x09;-	Maximum
 
 
 
-&#x09;=>	Standard deviation
+&#x09;-	Standard deviation
 
 
 
@@ -74,23 +74,23 @@ MATLAB Data Analyzer is a graphical user interface (GUI) application developed u
 
 
 
->>	MATLAB R2024b
+-	MATLAB R2024b
 
 
 
->>	MATLAB GUIDE
+-	MATLAB GUIDE
 
 
 
->>	MATLAB Tables
+-	MATLAB Tables
 
 
 
->>	Data Visualization
+-	Data Visualization
 
 
 
->>	CSV File Processing
+-	CSV File Processing
 
 
 
